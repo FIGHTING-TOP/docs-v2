@@ -4,7 +4,7 @@
 
 ## Koa
 
-Express 无疑是使用最广泛的 node 框架，从 github start 可以看出来其受欢迎的程度，但基于 ECMAScript 版本的变化，Express 很多功能受到 ES5 的约束，比如一直令人头疼的[Callback Hell](http://callbackhell.com/)。
+Express 无疑是使用最广泛的 node 框架，从 github star 可以看出来其受欢迎的程度，但基于 ECMAScript 版本的变化，Express 很多功能受到 ES5 的约束，比如一直令人头疼的[Callback Hell](http://callbackhell.com/)。
 
 为解决一系列问题，[TJ](https://github.com/tj)发现对 Express 进行重构似乎更加困难，于是就有了现在的 Koa。
 
